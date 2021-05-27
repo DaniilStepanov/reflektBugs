@@ -1,0 +1,1 @@
+fun bar(): String = FooEnum.valueOf("O").s + FooEnum.values()[2].s
